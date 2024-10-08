@@ -1,0 +1,19 @@
+{
+    "name": "sohel/image-processor",
+    "description": "A package to download images from URL, resize them and convert to webp format.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sohel\\ImageProcessor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sohel",
+            "email": "sohel.naptechlabs@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
